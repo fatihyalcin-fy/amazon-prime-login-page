@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+form{
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+div{
+    text-align: left;
+    font-size: 12px;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 27px;
+}
+
+.div1{
+    font-weight: 600;
+    
+}
+
+.div2{
+
+}
+
+.div3{
+    padding: 10px 30px 10px 30px;
+}
+
+.div4{
+    text-align: left;
+}
+
+.div9{
+    width: 300px;
+    height: auto;
+    align-items: center;
+}
