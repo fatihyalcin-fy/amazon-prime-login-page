@@ -3,6 +3,10 @@
 
 }
 
+body{
+    width: auto;
+}
+
 form{
     border: 1px solid rgba(128, 128, 128, 0.404);
     border-radius: 5px;
